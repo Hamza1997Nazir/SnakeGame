@@ -1,1 +1,38 @@
-﻿LINK : fatal error LNK1168: cannot open C:\Users\Hamza Nazir\source\repos\snakegame\Debug\snakegame.exe for writing
+﻿  snake.cpp
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(105,7): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(105,7): error C3484: syntax error: expected '->' before the return type
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(105,16): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(105,16): error C3646: 'setPoint': unknown override specifier
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(105,16): error C2059: syntax error: '('
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(105,44): error C2238: unexpected token(s) preceding ';'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(126,1): error C2059: syntax error: ';'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(126,1): error C2059: syntax error: ')'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(128,36): error C2059: syntax error: ';'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(131,3): error C2059: syntax error: 'switch'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(131,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(131,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(146,3): error C2059: syntax error: 'if'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(147,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(147,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(152,3): error C2059: syntax error: 'for'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(152,1): error C2143: syntax error: missing ')' before ';'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(152,21): error C2143: syntax error: missing ';' before '<'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(152,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(152,30): error C2143: syntax error: missing ';' before '++'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(152,29): error C2086: 'int i': redefinition
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(152): message : see declaration of 'i'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(152,1): error C2059: syntax error: ')'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(153,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(153,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(156,1): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(156,8): error C3484: syntax error: expected '->' before the return type
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(156,1): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(156,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(156,9): error C2146: syntax error: missing ';' before identifier 'Draw'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(157,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(157,3): error C2365: 'Sleep': redefinition; previous definition was 'function'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(750): message : see declaration of 'Sleep'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(158,2): error C2059: syntax error: '}'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(158,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(162,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Hamza Nazir\source\repos\snakegame\snakegame\snake.cpp(162,1): error C2447: '{': missing function header (old-style formal list?)
